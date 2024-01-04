@@ -1,0 +1,49 @@
+.main{
+    height:80px;
+    width: 100%;
+    background-color:pink;
+    display: flex;
+   
+    position:fixed;
+    top: 0;
+    z-index:1;
+   
+    
+}
+
+    
+.navbtn:hover{
+    background-color: red;
+}
+.left{
+    margin-left: 30px;
+    color:plum;
+    margin-top: 20px;
+   
+  
+}
+.left button:hover{
+    background-color: palevioletred;
+
+}
+.right{
+   margin-right: 30px;
+   margin-left: 50px;
+   padding: 10px;
+   display: flex;
+
+}
+.two button{
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: larger;
+}
+.one button:hover{
+    background-color: palevioletred;
+}
+.two button:hover{
+    background-color:  palevioletred
+
+}
+
